@@ -1,0 +1,28 @@
+{
+  "name": "react-router-dom-simple-site-eabiy7",
+  "description": "",
+  "homepage": "https://stackblitz.com/edit/react-router-dom-simple-site-eabiy7",
+  "dependencies": {
+    "react": "16.1.1",
+    "react-dom": "16.1.1",
+    "react-scripts": "1.0.10",
+    "classnames": "2.2.5",
+    "prop-types": "15.6.1",
+    "react-router-dom": "4.2.2",
+    "react-bootstrap-table-next": "0.1.12",
+    "react-chartist": "0.13.1",
+    "chartist": "0.10.1",
+    "react-slick": "0.23.1",
+    "react-gmaps": "1.9.0",
+    "querystring": "0.2.0",
+    "google-map-react": "1.0.3"
+  },
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
